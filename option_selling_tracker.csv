@@ -1,0 +1,4 @@
+Strategy_Name,Trade_Date,Instrument,Strike_Price,Buy/Sell,Expiry_Date,Type,Lots,Entry_Price,Exit_Price,Hedged_Strike_Price,Hedged_Buy/Sell,Hedged_Entry_Price,Hedged_Exit_Price,Margin_Used,Holding_Period,P&L
+BULL PUT SPREAD,10-06-2025,TECHM,1560,SELL,26-06-2025,PE,2,9.2,2.8,1520,BUY,4.4,1.75,119000,6,4200
+BULL PUT SPREAD,10-06-2025,TATAMOTORS,700,SELL,26-06-2025,PE,4,5.6,8.95,680,BUY,2.75,4.3,102000,2,-3960
+BEAR CALL SPREAD,03-07-2025,COALINDIA,400,SELL,31-07-2025,CE,2,4.15,1.05,410,BUY,2.05,0.4,60757,15,3105
